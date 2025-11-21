@@ -1,40 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalandbazár – Szabadulj ki a mindennapokból!</title>
-</head>
-<body>
-    
-<img src="kalandbazar_logo.png" alt="Kalandbazár logó">
-<h1>Kalandbazár</h1>
+Kalandbazár – Szabadulj ki a mindennapokból!
+Kalandbazár logó
+Kalandbazár
 Szabadulj ki a mindennapokból – tematikus szabadulószobák 2–6 fős csapatoknak
 
-<p><a href="#foglalas">Időpontot foglalok</a></p>
+Időpontot foglalok
 
-<h2>Miért válaszd a Kalandbazárt?</h2>
+Miért válaszd a Kalandbazárt?
 Történetközpontú játékmenet: minden szoba saját sztorival és fordulatokkal vár.
 Látványos díszletek: egyedi mechanikák, rejtett ajtók és okos zárak.
 Nehézségi szintek: kezdőknek és profiknak egyaránt.
 Csapatprogramok: céges csapatépítés és iskolai csoportok számára is.
 Segítő játékmester: kamerás felügyelet mellett opcionális tippekkel.
 
-<h2>Szobáinkról röviden</h2>
+Szobáinkról röviden
 Szoba neve	Téma	Játékidő	Nehézség	Ajánlott létszám
 Időutazás	Vissza a múltba, hogy kijavítsd a történelmet	60 perc	***	2–5 fő
 A Fáraó Átka	Piramis mélyén rejlő titkok	60 perc	****	3–6 fő
 A Fekete Sirály kincse	Kincskeresés egy süllyedő kalózhajón	60 perc	*****	4–6 fő
 
-<h2 id="foglalas">Foglalás menete</h2>
+Foglalás menete
 Válaszd ki a kívánt szobát. (https://www.kalandbazar.hu/szoba/)
 Add meg a létszámot és az időpontot.
 Fizess online biztonságosan, vagy válaszd a helyszíni fizetést.
 Érkezz 10 perccel korábban!
 
-<h2>Kapcsolat</h2>
+Kapcsolat
 1053 Budapest, Rejtély utca 7.
 +36 20 123 4567
-    
-</body>
-</html>
