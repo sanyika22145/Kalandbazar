@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action=""  name="urlap">
+        <p>Átváltandó szám: </p>
+        <input type="text" name="szam1">
+        <p> Melyik számrenszerből?</p>
+        <input type="number" name="szr1" min="10" max="10" value="10">
+        <p>Melyik számrendszerbe?</p>
+        <input type="number" name="szr2" min="2" max="2" value="2"><br><br>
+        <input type="button" value="számol" onclick="szamol()">
+        <br>
+        <br>
+        <label for="eredmeny"> Átváltva: </label>
+        <input type="text" name="eredmeny" readonly>
+    </form>
+</body>
+<script>
+    function szamol(){
+        let szam= document.urlap.szam1.value;
+        let eredmeny=""
+        while (szam>0){
+            maradek = szam%2
+            eredmeny = maradek +eredmeny;
+            szam=Math.floor(szam/2);
+        }
+        document.urlap.eredmeny.value=eredmeny;
+    }
+    
+</script>
+</html>
